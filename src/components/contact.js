@@ -2,7 +2,7 @@ import styled from '@emotion/styled';
 import React from 'react';
 import Icon from './icon';
 import { mq } from './_shared/media';
-import { StyledH1 } from './_shared/styled-headings';
+import { StyledH1,StyledH2 } from './_shared/styled-headings';
 import { StyledSection } from './_shared/styled-section';
 
 const StyledContactSection = styled(StyledSection)`
@@ -29,10 +29,11 @@ const StyledForm = styled.div`
   font-weight: normal;
 `;
 const StyledTextSection = styled.section`
-  white-space: pre-line;
+  // white-space: pre-line;
   width: 100%;
   max-width: 500px;
   margin-left: 3px;
+  font-weight:700;
 `;
 const StyledSeparator = styled.div`
   height: 1px;
@@ -63,15 +64,17 @@ const Contact = ({ data }) => {
   return (
     <React.Fragment>
       <StyledContactSection id="contact">
-        <StyledH1>Contact Details</StyledH1>
-        <StyledTextSection dangerouslySetInnerHTML={{ __html: html }} />
+        <StyledH2 style={{marginBottom:"0px",margin:"auto"}}>Contact Details</StyledH2>
+        <hr style={{color:"white",width:"100%"}}/>
+        <br/>
+        <StyledTextSection  dangerouslySetInnerHTML={{ __html: html }} />
         <StyledSeparator />
         <StyledContacts>
           {address && (
             <StyledContainer>
               <Icon icon="building" />
               <StyledFormContainer>
-                <StyledForm>Office Location</StyledForm>
+                <StyledForm>My Location</StyledForm>
                 <span>{address}</span>
               </StyledFormContainer>
             </StyledContainer>

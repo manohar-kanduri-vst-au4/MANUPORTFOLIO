@@ -1,11 +1,14 @@
 ---
-title: 'The Gatsby starter that makes developer dreams come true!'
-about_image: './me.jpg'
-techs: ['Gatsby', 'Javascript', 'React', 'GraphQL', 'Emotion', 'Stylus']
+title: 'Full Stack Web Developer'
+about_image: './manu.jpg'
+techs: [Git,HTMl,CSS,Javascript,React,NodeJs,MongoDB]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur egestas sit amet arcu tincidunt fermentum. Mauris ac nisl nibh. Etiam nunc eros, blandit vel eros laoreet, accumsan lacinia turpis.
+A self-motivaed and passionate aspiring web developer skilled in both front-end technologies like HTMl,CSS,Javascript,React,Material UI and back-end technologies like Node Js,Express,MongoDB DataBase.Undergone through Intensive and immersive 30 weeks of coding bootcamp at Masai School.I have worked on few projects collaboratively and solely. I always feel enthusiastic to learn new technologys to enhance my skills and bring value to the organization
 
-Phasellus ut sagittis eros. Curabitur quis libero consequat, iaculis dolor sollicitudin, ultricies ligula. Donec sodales sed ex a fermentum. Quisque vitae efficitur odio, non aliquam sapien.
+<!-- ![TechStack](./techstack2.png) -->
+<div style= "margin-top:-40px">
+<img src = "./tec.png"   />
+</div>
 
-Proin egestas luctus ornare. Donec maximus est lobortis, pharetra dolor in, convallis lorem. Duis ut erat in lectus faucibus iaculis. In tincidunt laoreet ante, vel pellentesque risus lacinia eu.
+

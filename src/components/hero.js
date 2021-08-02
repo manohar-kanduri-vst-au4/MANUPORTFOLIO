@@ -56,7 +56,7 @@ const Hero = ({ data }) => {
       <StyledAuthor>{author}</StyledAuthor>
       <StyledTagline>{tagline}</StyledTagline>
       <StyledDescription dangerouslySetInnerHTML={{ __html: description }} />
-      <ButtonLink label={ctaLabel} link={ctaLink} />
+      {/* <ButtonLink label={ctaLabel} link={ctaLink} /> */}
       <ScrollIndicator />
     </StyledHeroSection>
   );

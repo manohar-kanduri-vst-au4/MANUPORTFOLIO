@@ -1,10 +1,11 @@
 ---
 featured: true
 date: '2019-12-22'
-title: 'Minesweeper'
-cover_image: './images/motherboard.jpg'
-repo_link: 'https://github.com/Knochenmark/minesweeper'
-techs: ['Typescript', 'React']
+title: 'Trip Advisor'
+cover_image: './images/TripAdvisor.jpg'
+repo_link: 'https://github.com/Sathyaprakashsp666/team-helium--trip_advicer_Clone.git'
+demo_link : 'https://trip-advicer-clone-team-helium.netlify.app/'
+techs: ['HTML','CSS','JavaScript', 'React']
 ---
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.
+Tripadvisor, Inc. is an American online travel company that operates a website and mobile app with user-generated content and a comparison shopping website. It also offers online hotel reservations and bookings for transportation, lodging, travel experiences, and restaurants.

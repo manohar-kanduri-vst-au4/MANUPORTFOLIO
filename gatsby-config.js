@@ -1,10 +1,10 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-level-2',
   siteMetadata: {
-    title: 'Level 2',
-    titleTemplate: '%s · Level 2',
-    image: '/images/logo.png',
-    author: 'Max Mustermann',
+    title: 'Manohar Portfolio',
+    titleTemplate: 'Manohar-Full Stack Web Developer',
+    image: '/images/M.png',
+    author: 'MANOHAR KANDURI',
     description: 'Gatsby starter to quickly setup your portfolio and boost it to the next level.',
     url: 'https://knochenmark.github.io',
     paginationPageSize: 4, // Amount of posts displayed per listing page.

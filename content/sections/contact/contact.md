@@ -1,9 +1,9 @@
 ---
-phone: '+49 1234 5678910'
-email: 'maxmustermann@gmail.com'
-address: 'Friesenstr. 123, Berlin, Germany'
+phone: '+91 9676021764'
+email: 'manoharkanduri@gmail.com'
+address: 'Krishnam Setti Palli Village, Giddalur(Mndl), Prakasam(dist), Andhra Pradesh - 523357'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr,
-sed diam nonumy [Link to issues](https://github.com/Knochenmark/gatsby-starter-level-2/issues) tempor invidunt ut labore
-et dolore magna aliquyam erat, sed diam voluptua.
+Get in Touch with me to make something great together
+
+Available for Exciting Oppurtunities
